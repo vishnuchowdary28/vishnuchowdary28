@@ -1,0 +1,63 @@
+/* --------------------------------- */
+/* Css Color Style                   */
+/*---------------------------------- */
+
+header nav a.home-btn, .estate figure .imgout .price, .timeline li:first-child i, nav ul li a:after, .owl-theme .owl-controls .owl-page span, .skill-list .progress .percentage{
+    /*background: #333 !important;*/
+   background: #f857a6;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #ff5858, #f857a6);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #ff5858, #f857a6); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+
+
+
+
+
+}
+
+header nav ul li a:hover, .events ul li .datenlocation span, .namenprice .price, .cbp-filter-item-active, .portfolio-content p span, #blog-post .blog-sidebar ul.category-list li a:hover, #blog-post .blog-sidebar .popular-posts ul li a .info{
+    color: #333 !important;
+}
+
+.spinner:before
+{
+    border-top-color: #333;  
+}
+
+ul.profile-information li:before{
+	border-color: #333; 
+}
+
+/* Hover Color*/
+
+.site-btn:hover, header nav a.home-btn:hover, .section-title span{
+   background-color: #333 !important;
+}
+
+/* Opacity Color*/
+
+#portfolio .cbp-item .portfolio-image .icon i, #portfolio .cbp-item figure .icon i{
+    background: rgb(255, 197, 1);
+}
+
+/* for light colors */
+
+.site-btn, header nav a.home-btn i, ul.profile-information li:first-child:before, #blog .blog-box .date span, #blog .blog-box .date span, .timeline li:first-child i, .cbp-l-loadMore-link.site-btn{
+	color:#fff !important;
+}
+
+.timeline li:before, ul.profile-information li:before{
+	border-color: #333 !important;
+}
+
+.tab.active a, #blog-post .post-list ul li a, #blog-post .post-comment ul li .comment-content a{
+	color: #333;
+}
+
+
+
+
+
+
+
+
